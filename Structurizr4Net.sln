@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structurizr4Net.Core", "Structurizr4Net.Core\Structurizr4Net.Core.csproj", "{2F076CDD-6275-44C7-AA3B-CEA744BA131A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structurizr4Net.Annotations", "Structurizr4Net.Annotations\Structurizr4Net.Annotations.csproj", "{38A60832-409A-4A43-9646-C8DF633695EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F076CDD-6275-44C7-AA3B-CEA744BA131A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F076CDD-6275-44C7-AA3B-CEA744BA131A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F076CDD-6275-44C7-AA3B-CEA744BA131A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F076CDD-6275-44C7-AA3B-CEA744BA131A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A60832-409A-4A43-9646-C8DF633695EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A60832-409A-4A43-9646-C8DF633695EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A60832-409A-4A43-9646-C8DF633695EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A60832-409A-4A43-9646-C8DF633695EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
