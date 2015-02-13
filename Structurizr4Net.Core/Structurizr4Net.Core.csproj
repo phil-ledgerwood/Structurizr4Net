@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Collections\HashMap.cs" />
+    <Compile Include="ComponentFinding\ComponentFinder.cs" />
+    <Compile Include="ComponentFinding\ComponentFinderStrategyBase.cs" />
     <Compile Include="ComponentFinding\IComponentFinderStrategy.cs" />
     <Compile Include="Model\Component.cs" />
     <Compile Include="Model\Container.cs" />

@@ -6,6 +6,8 @@ namespace Structurizr4Net.Core.ComponentFinding
 {
     public interface IComponentFinderStrategy
     {
-        IEnumerable<Component> FindComponent();
+        IEnumerable<Component> FindComponents();
+        void FindDependencies();
+        void SetComponentFinder(ComponentFinder componentFinder);
     }
 }
